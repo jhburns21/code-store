@@ -11,7 +11,7 @@ namespace Isograms
                 return true;
             }
 
-            char[] letters = str.ToCharArray();
+            char[] letters = str.ToLower().ToCharArray();
             List<char> letterList = new List<char>(letters);
 
             for (int i = 0; i < letters.Length; i++)
@@ -19,10 +19,10 @@ namespace Isograms
                 char c = letters[i];
                 letterList.RemoveAt(0);
                 if (letterList.Contains(c))
-                    return true;
+                    return false;
             }
 
-            return false;
+            return true;
         }
     }
 }
