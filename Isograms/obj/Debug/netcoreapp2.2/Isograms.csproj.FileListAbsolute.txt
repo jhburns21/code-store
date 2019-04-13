@@ -1,0 +1,11 @@
+/home/john/Documents/My projects/Isograms/bin/Debug/netcoreapp2.2/Isograms.deps.json
+/home/john/Documents/My projects/Isograms/bin/Debug/netcoreapp2.2/Isograms.runtimeconfig.json
+/home/john/Documents/My projects/Isograms/bin/Debug/netcoreapp2.2/Isograms.runtimeconfig.dev.json
+/home/john/Documents/My projects/Isograms/bin/Debug/netcoreapp2.2/Isograms.dll
+/home/john/Documents/My projects/Isograms/bin/Debug/netcoreapp2.2/Isograms.pdb
+/home/john/Documents/My projects/Isograms/obj/Debug/netcoreapp2.2/Isograms.csprojAssemblyReference.cache
+/home/john/Documents/My projects/Isograms/obj/Debug/netcoreapp2.2/Isograms.csproj.CoreCompileInputs.cache
+/home/john/Documents/My projects/Isograms/obj/Debug/netcoreapp2.2/Isograms.AssemblyInfoInputs.cache
+/home/john/Documents/My projects/Isograms/obj/Debug/netcoreapp2.2/Isograms.AssemblyInfo.cs
+/home/john/Documents/My projects/Isograms/obj/Debug/netcoreapp2.2/Isograms.dll
+/home/john/Documents/My projects/Isograms/obj/Debug/netcoreapp2.2/Isograms.pdb
