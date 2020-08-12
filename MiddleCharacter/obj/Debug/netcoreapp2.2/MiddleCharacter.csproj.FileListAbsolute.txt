@@ -1,0 +1,11 @@
+/home/john/Documents/My projects/MiddleCharacter/bin/Debug/netcoreapp2.2/MiddleCharacter.deps.json
+/home/john/Documents/My projects/MiddleCharacter/bin/Debug/netcoreapp2.2/MiddleCharacter.runtimeconfig.json
+/home/john/Documents/My projects/MiddleCharacter/bin/Debug/netcoreapp2.2/MiddleCharacter.runtimeconfig.dev.json
+/home/john/Documents/My projects/MiddleCharacter/bin/Debug/netcoreapp2.2/MiddleCharacter.dll
+/home/john/Documents/My projects/MiddleCharacter/bin/Debug/netcoreapp2.2/MiddleCharacter.pdb
+/home/john/Documents/My projects/MiddleCharacter/obj/Debug/netcoreapp2.2/MiddleCharacter.csprojAssemblyReference.cache
+/home/john/Documents/My projects/MiddleCharacter/obj/Debug/netcoreapp2.2/MiddleCharacter.csproj.CoreCompileInputs.cache
+/home/john/Documents/My projects/MiddleCharacter/obj/Debug/netcoreapp2.2/MiddleCharacter.AssemblyInfoInputs.cache
+/home/john/Documents/My projects/MiddleCharacter/obj/Debug/netcoreapp2.2/MiddleCharacter.AssemblyInfo.cs
+/home/john/Documents/My projects/MiddleCharacter/obj/Debug/netcoreapp2.2/MiddleCharacter.dll
+/home/john/Documents/My projects/MiddleCharacter/obj/Debug/netcoreapp2.2/MiddleCharacter.pdb
